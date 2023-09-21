@@ -1,0 +1,21 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+
+}
+.minty{
+  background-color: rgb(29, 169, 173)
+}
+.tiny{
+  width: 95px;
+  height: 65px;
+  margin-right: 0px;
+}
+
+.navbar{
+  font-size: 30px;
+}
+.gallery{
+  background-position: 0%;
+  z-index: 900;
+}

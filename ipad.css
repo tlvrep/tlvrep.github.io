@@ -1,0 +1,167 @@
+body{
+  margin-right: 0px;
+  padding-right: 0px;
+  overflow-x: hidden;
+}
+*{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  background-color: rgb(41, 43, 44);
+
+}
+h1{
+ font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 48px;
+  color: white;
+  margin-bottom: 4vw;
+}
+h4{
+  margin-top: 48px;
+}
+h3{
+  display: flex;
+  margin-top: 8vw;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4vw;
+  color: white;
+  text-align: center;
+}
+.sub{
+  color: white;
+  font-size: 3vw;
+}
+.header{
+  margin-top: 5vw;
+  text-align: center;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("https://storage.googleapis.com/www.tlvrep.com/icons/Untitled-1.png");
+  height: 800px;
+  width: inherit;
+  background-repeat: no-repeat;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+
+.minty{
+  background-color: rgb(29, 169, 173)
+}
+.tiny{
+  width: 95px;
+  height: 85px;
+  margin-right: 0px;
+}
+
+.navbar{
+  font-size: 30px;
+}
+
+
+.p{
+  text-align: center;
+  opacity: 1;
+}
+.text-imp{
+  color: rgba(29, 169, 173, 1);
+}
+
+.text-dark{
+  color: rgba(0, 0, 0, 1);
+}
+
+.slogan{
+  font-weight: lighter;
+  font-size: 100px;
+  background: rgba(29, 173, 169, .7);
+  color: rgba(0,0,0, 1);
+  font-opacity
+}
+
+.icon{
+  width: 100px;
+  height: 100px;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1;
+}
+.card{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+.card-text{
+  font-size: 25px;
+}
+.bg-ddark{
+  background-color: rgb(41, 43, 44);
+}
+
+.galmarg{
+  margin-left: 50%;
+  margin-right: 50%;
+}
+.topdown{
+  margin-top: 8vw;
+}
+
+.txt-center{
+  text-align: center;
+}
+
+.table-txt{
+text-align: center;
+color: rgb(29, 169, 173)
+}
+.table{
+  margin: auto;
+}
+.btn{
+ font-family: 'Bebas Neue', cursive;
+}
+.btn-outline-info {
+  margin-left: 50%;
+  margin-right: 50%;
+}
+.sub{
+  color: rgb(255, 255, 255);
+  justify-content: center;
+  text-align: center;
+}
+.outbtn{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding-left: 75px;
+  padding-right: 75px;
+  font-size: 35px;
+}
+.card-title{
+  font-size: 26px;
+}
+.ytvid{
+  margin-left: 23%;
+  margin-right: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 800px;
+  height: 450px;
+}
+.socicon{
+  height: 40px;
+  width: 40px;
+}
+.iconbox{
+  margin-left: 47%;
+}
+.ovf{
+  overflow-x: visible;
+}

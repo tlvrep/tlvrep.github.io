@@ -1,0 +1,171 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:lighter;
+  background-color: rgb(41, 43, 44);
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 48px;
+  color: white;
+  margin-bottom: 4vw;
+}
+h4{
+  margin-top: 48px;
+}
+h3{
+  display: block;
+  margin-top: 8vw;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4vw;
+  color: white;
+}
+
+.header{
+  margin-top: 5vw;
+  text-align: center;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/Users/ayyanmalik/Desktop/TLV Real Estate Photography/Untitled-1.jpg");
+  height: 800px;
+  width: inherit;
+  background-repeat: no-repeat;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.bold{
+  font-weight: bolder;
+}
+.minty{
+  background-color: rgb(29, 169, 173)
+}
+.tiny{
+  width: 95px;
+  height: 85px;
+  margin-right: 0px;
+}
+.mobileslogan{
+  font-size: 1vw;
+  width: 100;
+}
+.navbar{
+  font-size: 30px;
+}
+.p{
+  text-align: center;
+  opacity: 1;
+}
+.text-imp{
+  color: rgba(29, 169, 173, 1);
+}
+
+.text-dark{
+  color: rgba(0, 0, 0, 1);
+}
+
+.slogan{
+  font-weight: lighter;
+  font-size: 100px;
+  background: rgba(29, 173, 169, .7);
+  color: rgba(0,0,0, 1);
+}
+.icon{
+  width: 70px;
+  height: 70px;
+  margin-bottom: 25px;
+  margin-right: 275px;
+  z-index: 3;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1;
+}
+.card{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.ovf{
+  overflow-x: visible;
+}
+.card-text{
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 0px;
+  z-index: -1;
+}
+.bg-ddark{
+  background-color: rgb(41, 43, 44);
+}
+
+.galmarg{
+  margin-left: 50%;
+  margin-right: 50%;
+}
+.topdown{
+  margin-top: 8vw;
+}
+
+.txt-center{
+  text-align: center;
+}
+
+.table-txt{
+text-align: center;
+color: rgb(29, 169, 173)
+}
+.btn{
+  font-family: 'Montserrat', sans-serif;
+}
+.btn-outline-info {
+  margin-left: auto;
+  margin-right: auto;
+}
+.outbtn{
+  margin-top: 15%;
+  margin-bottom: 15%;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+.sub{
+  color: rgb(255, 255, 255);
+  justify-content: center;
+  text-align: center;
+}
+.table{
+  margin: auto;
+}
+.contactcard{
+  margin-bottom: 50px;
+  overflow-y: visible;
+}
+.tblbtn{
+  margin-right: 130px;
+  padding: 5px;
+  font-size: 15px;
+}
+.ytvid{
+width: 350px;
+height: 220px;
+margin-left: 2vw;
+}
+.socicon{
+  height: 40px;
+  width: 40px;
+}
+.iconbox{
+  margin-left: 38%
+}
+.ovf{
+  overflow-x: visible;
+}
